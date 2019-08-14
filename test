@@ -1,0 +1,9 @@
+testStart
+some test pattern
+testEnd
+
+embedStart
+testStart
+some test pattern
+testEnd
+embedEnd
